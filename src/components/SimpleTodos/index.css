@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bg-container1 {
+  height: 100vh;
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container2 {
+  padding: 20px;
+  width: 90%;
+  background-color: #ffffff;
+}
+.heading {
+  text-align: center;
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-weight: bold;
+}

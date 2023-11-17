@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.todoItem-container {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.todo {
+  width: 80%;
+  font-family: 'Roboto';
+}
+.button {
+  border: 2px solid #ff0b37;
+  padding: 6px;
+  color: #ff0b37;
+  background-color: transparent;
+}
